@@ -31,7 +31,7 @@ h2 {
   font-size: 0.7em;
 }
 
-.ingredients-wrapper {
+.enumeration-wrapper {
   margin: 0 0 20px 40px;
   line-height: 0.8em;
 }
@@ -41,8 +41,12 @@ h2 {
   margin-left: 10px;
 }
 
-.ingredients-item {
+.listed-item {
   font-size: 0.6em;
+}
+
+.directions-list {
+  width: 400px;
 }
 
 .information-image {
